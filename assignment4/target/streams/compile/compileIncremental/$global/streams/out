@@ -1,0 +1,58 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.13:component from component compiler for Scala 2.11.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4de9cc16, interfacing (CompilerInterface) with Scala compiler version 2.11.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes;C:\Users\Nitin Aggarwal\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\target\scala-2.11\classes;C:\Users\Nitin Aggarwal\.ivy2\cache\org.scala-lang.modules\scala-parser-combinators_2.11\jars\scala-parser-combinators_2.11-1.0.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 9.670838647 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala source file has the following implicit definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	literal, accept, regex.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, wait, copy$default$2, $asInstanceOf, compose, e1, productArity, equals, Evaluator, asInstanceOf, evaluate, Divide, synchronized, $isInstanceOf, andThen, Expression, tupled, canEqual, productPrefix, i, notifyAll, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, apply, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, Product, e2, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Including C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala by C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Including C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala by C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala, C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Syntax.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, unapply, curried, Syntax, wait, copy$default$2, $asInstanceOf, compose, e1, productArity, equals, asInstanceOf, Divide, synchronized, $isInstanceOf, andThen, Expression, tupled, canEqual, productPrefix, i, notifyAll, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, apply, ==, clone, $init$, copy, toString, !=, getClass, copy$default$1, Product, e2, ne, eq, productIterator, ##, finalize, productElement, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\ArithmeticParser.scala: Set(unapply, Syntax, asInstanceOf, Divide, Expression, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, apply, ==, Product, ne)[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of C:\Users\Nitin Aggarwal\Desktop\Scala-Assignment-30-01-2017\assignment4\src\main\scala\edu\knoldus\parsing\Evaluator.scala: Set(Syntax, e1, asInstanceOf, Divide, Expression, i, isInstanceOf, Sum, Minus, <init>, IntegerLiteral, Product, e2)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

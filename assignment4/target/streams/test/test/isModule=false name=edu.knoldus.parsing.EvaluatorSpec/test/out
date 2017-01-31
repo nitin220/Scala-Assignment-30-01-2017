@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mEvaluatorSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe expression syntax evaluator[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate a literal[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate a sum of two literals[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate a sum of two sum expressions[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate a product of two literals[0m[0m
+[0m[[0minfo[0m] [0m[32m- should evaluate a product of two expressions[0m[0m

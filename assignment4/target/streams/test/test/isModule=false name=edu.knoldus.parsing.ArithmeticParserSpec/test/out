@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mArithmeticParserSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mThe parser[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse an integer literal[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a negative integer literal[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a simple sum[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a simple product[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a parenthesized sum[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a parenthesized product[0m[0m
+[0m[[0minfo[0m] [0m[32m- should parse a complex expression[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw exception given incomplete input[0m[0m

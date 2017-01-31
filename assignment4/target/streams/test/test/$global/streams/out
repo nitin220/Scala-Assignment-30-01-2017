@@ -1,0 +1,10 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.knoldus.parsing.ArithmeticParserSpec, org.scalatest.tools.Framework$$anon$1@2ee1934a, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(edu.knoldus.parsing.EvaluatorSpec, org.scalatest.tools.Framework$$anon$1@2ee1934a, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 552 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 13[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 13, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	edu.knoldus.parsing.ArithmeticParserSpec[0m
+[0m[[0mdebug[0m] [0m	edu.knoldus.parsing.EvaluatorSpec[0m
